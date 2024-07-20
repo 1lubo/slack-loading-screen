@@ -1,3 +1,6 @@
+<p>
+  <img src="img/index.gif">
+</p>
 <p align="center">
     <h1 align="center">SLACK-LOADING-SCREEN</h1>
 </p>
