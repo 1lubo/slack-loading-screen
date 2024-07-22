@@ -21,12 +21,11 @@
 
 ##  Quick Links
 
-> - [ Overview](#-overview)
-> - [ Repository Structure](#-repository-structure)
-> - [ Getting Started](#-getting-started)
-  >   - [ Installation](#-installation)
-  >   - [ Running slack-loading-screen](#-running-slack-loading-screen)
-
+> - [ Overview](#overview)
+> - [ Repository Structure](#repository-structure)
+> - [ Installation](#installation)
+> - [ Running slack-loading-screen](#running-slack-loading-screen)
+> - [ Acknowledgements](#acknowledgments)
 ---
 
 ##  Overview
@@ -87,6 +86,6 @@ open index.html
 
 - README generated with https://readme-ai.streamlit.app
 
-[**Return**](#-quick-links)
+[**Return**](#quick-links)
 
 ---
